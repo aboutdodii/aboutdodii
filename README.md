@@ -7,7 +7,7 @@
 
 <!-- ===================== HEADER HERO ===================== -->
 <h1 style="background: linear-gradient(90deg, #0a192f, #1e3a8a); -webkit-background-clip: text; -webkit-text-fill-color: transparent;">
-✨ Dodik Bima ✨
+✨ About Dodii ✨
 </h1>
 
 <h3>
