@@ -32,7 +32,7 @@
 
 <br/>
 
-<div align="center">
+<!-- <div align="center">
   <h3>🎒 Inventory (Tech Stack)</h3>
   
   <img src="https://img.shields.io/badge/JavaScript-2E3440?style=for-the-badge&logo=javascript&logoColor=88C0D0&labelColor=2E3440" />
@@ -74,4 +74,4 @@
   <br/>
   <br/>
   <samp>❄️ Thanks for visiting my base! ❄️</samp>
-</div>
+</div> -->
